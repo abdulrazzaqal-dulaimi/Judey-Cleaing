@@ -40,6 +40,6 @@ If you encounter any issues or have ideas for improvements, please open an issue
 
 If you have any questions or need further assistance, you can reach out to us at:
 
-- Email: judycleainginc@gmail.com
+- Email: faiverwork19@gmail.com
 
 Thank you for contributing to make the Judey Cleaning website even better!
