@@ -1,0 +1,32 @@
+.thanks-main-container{
+ display: flex;
+ flex-direction: column;
+ width: 100%;
+ margin-bottom: 40px;
+}
+.thanks-img{
+    text-align: center;
+    width: 100%;
+}
+
+.thanks-img img{
+    width: 450px;
+    height: 450px;
+}
+.thanks-p{
+    width: 100%;
+    text-align: center;
+}
+.p{
+    font-size: 30px;
+    text-shadow: 5px 5px 14px #ff6f00;
+}
+
+
+@media screen and (max-width: 480px) {
+    .thanks-img img{
+        width: 350px;
+        height: 350px;
+    }
+    
+}
